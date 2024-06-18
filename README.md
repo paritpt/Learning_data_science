@@ -1,3 +1,3 @@
 # Learning_data_science
-this repository is to show what i've learn about data science.  
-all my works/exercises are .ipynb. the rest are resources.   
+This repository is to show what i've learn about data science.  
+All my works/exercises are .ipynb. The rest are resources.   
